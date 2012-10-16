@@ -21,7 +21,7 @@
     $('#toggle-container').toggle_input()
 ```
 
-(Example on jsFiddle)[http://jsfiddle.net/af3fY/]
+[Example on jsFiddle](http://jsfiddle.net/af3fY/)
 
 ## Options
 <table>
@@ -33,24 +33,24 @@
     </thead>
     <tbody>
         <tr>
-            <td>`input`</td>
-            <td>`'.toggle'`</td>
+            <td><pre>input</pre></td>
+            <td><pre>'.toggle'</pre></td>
         </tr>
         <tr>
-            <td>`toggles`</td>
-            <td>`'.toggle'`</td>
+            <td><pre>toggles</pre></td>
+            <td><pre>'.toggle'</pre></td>
         </tr>
         <tr>
-            <td>`active_class`</td>
-            <td>`'active'`</td>
+            <td><pre>active_class</pre></td>
+            <td><pre>'active'</pre></td>
         </tr>
         <tr>
-            <td>`can_deselect`</td>
-            <td>`true`</td>
+            <td><pre>can_deselect</pre></td>
+            <td><pre>true</pre></td>
         </tr>
         <tr>
-            <td>`get_value`</td>
-            <td>`-> @text().trim().toLowerCase().replace ' ', ''`</td>
+            <td><pre>get_value</pre></td>
+            <td><pre>-> @text().trim().toLowerCase().replace ' ', ''</pre></td>
         </tr>
     </tbody>
 </table>
